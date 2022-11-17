@@ -1,0 +1,27 @@
+body {
+    font-style: "Gilroy";
+}
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.button {
+    background: #5AAF13;
+    border-radius: 50px;
+    width: 340px;
+    height: 60px;
+    border: none;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    color: #FFFFFF;
+}
+
+.a_margin {
+    display: flex;
+    justify-content: center;
+
+    text-decoration: none;
+}
